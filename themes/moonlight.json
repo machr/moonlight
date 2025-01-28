@@ -146,7 +146,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#C099FF",
+            "color": "#ffc777",
             "font_style": null,
             "font_weight": null
           },
@@ -301,7 +301,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#FF757F",
+            "color": "#C099FF",
             "font_style": null,
             "font_weight": null
           }
