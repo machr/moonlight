@@ -1,6 +1,6 @@
 id = "moonlight"
 name = "Moonlight"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Rick-VA <rick@rickva.dev>"]
 description = "Moonlight theme for Zed"
